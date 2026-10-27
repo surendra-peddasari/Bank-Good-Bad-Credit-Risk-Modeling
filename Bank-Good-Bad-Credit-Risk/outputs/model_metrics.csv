@@ -1,0 +1,5 @@
+Model,Evaluation,ROC_AUC,Gini_percent
+LightGBM,Validation,0.6939,38.79
+CatBoost,Validation,0.6942,38.85
+Rank Blend,Validation,0.6963,39.25
+Business Benchmark,Benchmark,,37.9
